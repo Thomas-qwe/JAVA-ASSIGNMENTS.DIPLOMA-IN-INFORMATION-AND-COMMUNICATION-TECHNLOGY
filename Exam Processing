@@ -1,0 +1,28 @@
+public class Coursework{
+	public static void main(String[]args){
+		int Assign1;
+		int Assign2;
+		int Cat1;
+		int Cat2;
+		int Bit2204;
+	
+	Assign1=4;
+	Assign2=3;
+	Cat1=5;
+	Cat2=7;
+	Bit2204=Assign1+Assign2+Cat1+Cat2;
+
+System.out.println("Coursework Marks:");
+System.out.println("Assign1:");
+System.out.println(Assign1);
+System.out.println("Assign2:");
+System.out.println(Assign2);
+System.out.println("Cat1=");
+System.out.println(Cat1);
+System.out.println("Cat2=");
+System.out.println(Cat2);
+System.out.println("Bit2204:");
+System.out.println(Bit2204);
+
+}
+}
